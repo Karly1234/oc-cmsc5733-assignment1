@@ -1,4 +1,5 @@
-
+//Karly Meeks
+//Version 0.1
 #include <iostream>
 #include <vector>
 
